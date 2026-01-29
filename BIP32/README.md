@@ -74,6 +74,4 @@ Generate multiple wallets from a single mnemonic.
 
 Never share your private keys or mnemonic phrases! This code is meant for development and testing. For production use, consider using hardware wallets or proper key management systems.
 
-## License
 
-MIT
